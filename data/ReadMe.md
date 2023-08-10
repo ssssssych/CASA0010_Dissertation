@@ -7,7 +7,7 @@
 
 (4) soc_2019.xlsx is one of ACS datasets about Social Characteristics.
 
-(5) Merged_Data.csv is merged datasets from LL84 and PLUTO.
+(5) Merged_Data.csv is a merged dataset from LL84 and PLUTO.
 
 ## About how to download LL84 and PLUTO data
 Two files exceed the maximum file size accepted by GitHub so a download method is provided. In addition, the remaining dataset is ACS.
