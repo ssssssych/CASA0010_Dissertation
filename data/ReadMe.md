@@ -9,6 +9,8 @@
 
 (5) Merged_Data.csv is a merged dataset from LL84 and PLUTO.
 
+(6) NTA_spatial_join.csv is a spatial merged dataset from Merged_Data.csv and 2020 Neighborhood Tabulation Areas (NTAs). 
+
 ## About how to download LL84 and PLUTO data
 Two files exceed the maximum file size accepted by GitHub so a download method is provided. In addition, the remaining dataset is ACS.
 
