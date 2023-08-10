@@ -1,8 +1,12 @@
 # Reminders:
 (1) demo_2019.xlsx is one of ACS datasets about Demographic Estimates.
+
 (2) econ_2019.xlsx is one of ACS datasets about Economic Characteristics.
+
 (3) hous_2019.xlsx is one of ACS datasets about Housing Characteristics.
+
 (4) soc_2019.xlsx is one of ACS datasets about Social Characteristics.
+
 (5) Merged_Data.csv is merged datasets from LL84 and PLUTO.
 
 ## About how to download LL84 and PLUTO data
