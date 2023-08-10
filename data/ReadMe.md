@@ -11,7 +11,7 @@
 
 (6) NTA_spatial_join.csv is a spatial merged dataset from Merged_Data.csv and 2020 Neighborhood Tabulation Areas (NTAs). 
 
-## About how to download LL84 and PLUTO data
+## How to download LL84 and PLUTO data ?
 Two files exceed the maximum file size accepted by GitHub so a download method is provided. In addition, the remaining dataset is ACS.
 
 (1）LL84 is available from https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/wcm8-aq5w.
