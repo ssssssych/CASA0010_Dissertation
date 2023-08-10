@@ -16,7 +16,7 @@
 (8) df.csv is a merged dataset from NTA_spatial_join.csv and  ACS_2019_cleaned.csv
 
 ## How to download LL84 and PLUTO data ?
-Two files exceed the maximum file size accepted by GitHub so a download method is provided. In addition, the remaining dataset is ACS.
+Two files exceed the maximum file size accepted by GitHub so a download method is provided. 
 
 (1）LL84 is available from https://data.cityofnewyork.us/Environment/Energy-and-Water-Data-Disclosure-for-Local-Law-84-/wcm8-aq5w.
 
