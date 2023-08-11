@@ -1,19 +1,23 @@
 # Reminders:
-(1) demo_2019.xlsx is one of ACS datasets about Demographic Estimates.
+(01) demo_2019.xlsx is one of ACS datasets about Demographic Estimates.
 
-(2) econ_2019.xlsx is one of ACS datasets about Economic Characteristics.
+(02) econ_2019.xlsx is one of ACS datasets about Economic Characteristics.
 
-(3) hous_2019.xlsx is one of ACS datasets about Housing Characteristics.
+(03) hous_2019.xlsx is one of ACS datasets about Housing Characteristics.
 
-(4) soc_2019.xlsx is one of ACS datasets about Social Characteristics.
+(04) soc_2019.xlsx is one of ACS datasets about Social Characteristics.
 
-(5) Merged_Data.csv is a merged dataset from LL84 and PLUTO.
+(05) Merged_Data.csv is a merged dataset from LL84 and PLUTO.
 
-(6) NTA_spatial_join.csv is a spatial merged dataset from Merged_Data.csv and 2020 Neighborhood Tabulation Areas (NTAs). 
+(06) NTA_spatial_join.csv is a spatial merged dataset from Merged_Data.csv and 2020 Neighborhood Tabulation Areas (NTAs). 
 
-(7) ACS_2019_cleaned.csv is a merged dataset from demo_2019.xlsx, econ_2019.xlsx, hous_2019.xlsx  and soc_2019.xlsx
+(07) ACS_2019_cleaned.csv is a merged dataset from demo_2019.xlsx, econ_2019.xlsx, hous_2019.xlsx  and soc_2019.xlsx.
 
-(8) df.csv is a merged dataset from NTA_spatial_join.csv and  ACS_2019_cleaned.csv
+(08) df.csv is a merged dataset from NTA_spatial_join.csv and  ACS_2019_cleaned.csv.
+
+(09) transformed_df.csv derived from log transformation of df.csv.
+
+(10) energy_mapping.csv contains the predicted value and residuals for energy mapping.
 
 ## How to download LL84 and PLUTO data ?
 Two files exceed the maximum file size accepted by GitHub so a download method is provided. 
