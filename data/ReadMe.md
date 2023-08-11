@@ -17,7 +17,9 @@
 
 (09) transformed_df.csv derived from log transformation of df.csv.
 
-(10) energy_mapping.csv contains the predicted value and residuals for energy mapping.
+(10) energy_mapping1.csv contains the predicted value and residuals for energy mapping based on building, economic and socio-demographic factors.
+
+(11) energy_mapping2.csv contains the predicted value and residuals for energy mapping based on only building factors.
 
 ## How to download LL84 and PLUTO data ?
 Two files exceed the maximum file size accepted by GitHub so a download method is provided. 
