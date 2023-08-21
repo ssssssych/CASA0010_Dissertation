@@ -1,4 +1,12 @@
 # The Prediction of Building Energy Consumption Using Machine Learning Approaches: A Case Study of New York
+This repository includes the files needed to carry out the analysis for the CASA0010 Dissertation, set out to answer the following three research questions:
+
+- **RQ1**: Which machine learning methods is the most effective in predicting BEC at the city level and how does this differ from previous research?
+  
+- **RQ2**: What characteristics are thought to influence energy use in buildings and do socio-demographic and economic factors have a significant impact?
+
+- **RQ3**: What insights and policy implications do these findings provide into the potential relationships between these input factors and the building energy performance in NYC?
+
 
 To carry out the analysis, run the following files in order: 
 
